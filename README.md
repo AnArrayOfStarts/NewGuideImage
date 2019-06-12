@@ -1,6 +1,6 @@
 # NewGuideImage
 
-这是一个新手引导界面demo。
+这是一个新手引导界面demo(react-native 项目)。
 
 1、简单的一个demo，用于展示一个界面的展示与消失。
 
